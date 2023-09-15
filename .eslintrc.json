@@ -33,6 +33,8 @@
         "class-methods-use-this": "off",
         "consistent-return": "off",
         "array-callback-return": "off",
-        "import/prefer-default-export": "off"
+        "import/prefer-default-export": "off",
+        "no-useless-constructor": "off",
+        "no-empty-function": "off"
     }
 }
